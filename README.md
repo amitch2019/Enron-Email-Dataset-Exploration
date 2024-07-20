@@ -133,6 +133,7 @@ The use of different layout strategies allows for comparison and helps in identi
 
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/cb7aa462-b0c8-4fac-99bd-c2d0c0dc4e2e">
 
+
 **Heatmap Indicating the Frequency of Communication Between Key Individuals, Some Prominent, Others Obscure**
 
 <img width="1118" alt="image" src="https://github.com/user-attachments/assets/18f8eac0-fab9-4d05-94f3-647b2e7226a1">
