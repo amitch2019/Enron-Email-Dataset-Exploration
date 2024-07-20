@@ -7,7 +7,7 @@ This project involves an in-depth exploration and analysis of the infamous Enron
 
 ## Key Features
 
-- **Large Dataset Processing**: Efficiently processes and condenses 1.5GB of raw email data into a structured format.
+- **Large Dataset Processing**: Efficiently processes and condenses **1.5GB of raw email data (> 517,376 emails, 443k names, 195k email addresses and 1k phone numbers)** into a structured format. 
 - **Data Cleaning and Normalization**: Implements robust data cleaning techniques, including email address normalization and filtering of irrelevant data.
 - **Advanced Data Analysis**: Utilizes pandas for complex data manipulations and aggregations.
 - **Network Analysis**: Employs NetworkX library to construct and analyze email communication graphs.
@@ -111,6 +111,31 @@ The use of different layout strategies allows for comparison and helps in identi
 - The source code for this project is **not publicly available at the moment**.
 - However, it **can be shared with interested persons upon request**.
 - Please contact me directly to request access to the code.
+
+## Sample Figures
+
+**Ego Graph For Kenneth Lay (Spring Layout)**
+
+<img width="1178" alt="image" src="https://github.com/user-attachments/assets/463123d8-eb90-4fa8-9af7-703cf76ad8b3">
+
+
+**Ego Graph for Jeff Skilling (Spring Layout)**
+
+<img width="1171" alt="image" src="https://github.com/user-attachments/assets/a2670dfd-0f09-4c9d-9654-7171445db127">
+
+**Ego Graph for CEO Kenneth Lay (Kamada Kawai Layout)** 
+
+<img width="1089" alt="image" src="https://github.com/user-attachments/assets/2e0bb7a4-49d6-4fdd-b47a-e083d17fa543">
+
+**Page Rank and Centrality Analysis Indicating Who The Key Executives Were**
+
+<img width="1121" alt="image" src="https://github.com/user-attachments/assets/758dd8f0-94e1-4b93-9ed2-35019ea341c5">
+
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/cb7aa462-b0c8-4fac-99bd-c2d0c0dc4e2e">
+
+**Top Email Recipients**
+
+<img width="1134" alt="image" src="https://github.com/user-attachments/assets/b6b1f45e-8753-4314-8534-0073f3b5f2ce">
 
 
 Contact
