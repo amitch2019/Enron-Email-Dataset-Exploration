@@ -133,6 +133,14 @@ The use of different layout strategies allows for comparison and helps in identi
 
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/cb7aa462-b0c8-4fac-99bd-c2d0c0dc4e2e">
 
+**Heatmap Indicating the Frequency of Communication Between Key Individuals, Some Prominent, Others Obscure**
+
+<img width="1118" alt="image" src="https://github.com/user-attachments/assets/18f8eac0-fab9-4d05-94f3-647b2e7226a1">
+
+**Change in the Volumne of Email Traffic as Enron's Schemes Pearked, and then, Unravelled**
+
+<img width="1119" alt="image" src="https://github.com/user-attachments/assets/c63805f6-3509-489e-b568-12ed543440ca">
+
 **Top Email Recipients**
 
 <img width="1134" alt="image" src="https://github.com/user-attachments/assets/b6b1f45e-8753-4314-8534-0073f3b5f2ce">
