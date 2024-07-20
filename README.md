@@ -127,7 +127,7 @@ The use of different layout strategies allows for comparison and helps in identi
 
 <img width="1089" alt="image" src="https://github.com/user-attachments/assets/2e0bb7a4-49d6-4fdd-b47a-e083d17fa543">
 
-**Page Rank and Centrality Analysis Indicating Who The Key Executives Were**
+**Page Rank and Centrality Analysis (Correctly) Indicating Who The Key Executives Were**
 
 <img width="1121" alt="image" src="https://github.com/user-attachments/assets/758dd8f0-94e1-4b93-9ed2-35019ea341c5">
 
