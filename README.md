@@ -11,7 +11,7 @@ This project involves an in-depth exploration and analysis of the infamous Enron
 - **Data Cleaning and Normalization**: Implements robust data cleaning techniques, including email address normalization and filtering of irrelevant data.
 - **Advanced Data Analysis**: Utilizes pandas for complex data manipulations and aggregations.
 - **Network Analysis**: Employs NetworkX library to construct and analyze email communication graphs.
-- **Data Visualization**: Creates insightful visualizations using matplotlib, including histograms, heatmaps, and network graphs.
+- **Data Visualization**: Creates insightful visualizations using matplotlib, including histograms, heatmaps, and network graphs using NetworkX.
 - **Performance Optimization**: Utilizes the feather format for fast data storage and retrieval.
 
 ## Email Network Analysis
