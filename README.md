@@ -7,7 +7,7 @@ This project involves an in-depth exploration and analysis of the infamous Enron
 
 ## Key Features
 
-- **Large Dataset Processing**: Efficiently processes and condenses **1.5GB of raw email data (> 517,376 emails, 443k names, 195k email addresses and 1k phone numbers)** into a structured format. 
+- **Large Dataset Processing**: Efficiently processes and condenses **1.5GB of raw email data (> 517,376 emails, 443k names, 195k email addresses and 1k phone numbers)** into a structured format (pandas DataFrame). 
 - **Data Cleaning and Normalization**: Implements robust data cleaning techniques, including email address normalization and filtering of irrelevant data.
 - **Advanced Data Analysis**: Utilizes pandas for complex data manipulations and aggregations.
 - **Network Analysis**: Employs NetworkX library to construct and analyze email communication graphs.
