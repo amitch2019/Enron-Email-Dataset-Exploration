@@ -1,5 +1,5 @@
 # Enron Email Dataset Exploration and Network Analysis
-This project leverages data science techniques to analyze the Enron email dataset, aiming to uncover insights from the communications of Enron executives. The project demonstrates proficiency in data preprocessing, natural language processing (NLP), and machine learning, providing a comprehensive analysis of the email corpus.
+This project leverages data science techniques to analyze the Enron email dataset, aiming to uncover insights from the communications of Enron executives. The project demonstrates proficiency in data preprocessing, natural language processing (NLP), and networl analysis, providing a comprehensive analysis of the email corpus.
 
 ## Project Overview
 
